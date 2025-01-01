@@ -1,0 +1,79 @@
+{
+  "stations": [
+    {
+      "name": "Бульвар Рокоссовского",
+      "line": "Сокольническая линия",
+      "hasConnection": false
+    },
+    {
+      "name": "Черкизовская",
+      "line": "Сокольническая линия",
+      "hasConnection": true
+    },
+    {
+      "name": "Преображенская площадь",
+      "line": "Сокольническая линия",
+      "hasConnection": false
+    },
+    {
+      "name": "Сокольники",
+      "line": "Сокольническая линия",
+      "hasConnection": false
+    },
+    {
+      "name": "Красносельская",
+      "line": "Сокольническая линия",
+      "hasConnection": false
+    },
+    {
+      "name": "Комсомольская",
+      "line": "Сокольническая линия",
+      "hasConnection": true
+    },
+    {
+      "name": "Красные ворота",
+      "line": "Сокольническая линия",
+      "hasConnection": false
+    },
+    {
+      "name": "Чистые пруды",
+      "line": "Сокольническая линия",
+      "hasConnection": true
+    },
+    {
+      "name": "Лубянка",
+      "line": "Сокольническая линия",
+      "hasConnection": true
+    },
+    {
+      "name": "Охотный ряд",
+      "line": "Сокольническая линия",
+      "hasConnection": true
+    },
+    {
+      "name": "Библиотека имени Ленина",
+      "line": "Сокольническая линия",
+      "hasConnection": true
+    },
+    {
+      "name": "Кропоткинская",
+      "line": "Сокольническая линия",
+      "hasConnection": false
+    },
+    {
+      "name": "Парк Культуры",
+      "line": "Сокольническая линия",
+      "hasConnection": true
+    },
+    {
+      "name": "Фрунзенская",
+      "line": "Сокольническая линия",
+      "hasConnection": false
+    },
+    {
+      "name": "Спортивная",
+      "line": "Сокольническая линия",
+      "hasConnection": false
+    }
+  ]
+}

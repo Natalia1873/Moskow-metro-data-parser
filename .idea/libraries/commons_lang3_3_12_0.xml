@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.12.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-collections4-4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
